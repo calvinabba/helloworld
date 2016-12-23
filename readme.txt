@@ -1,3 +1,4 @@
 This is a readme file
-Nince to meet you
-Have a nince day
+Nice to meet you
+Have a nice day
+Add one line last.
